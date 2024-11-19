@@ -49,10 +49,10 @@ Description: J'ai des difficultés à comprendre la gestion du flux de données 
 Plan d'action : (à valider par le formateur)
 
 - action 1  ✔️ Rechercher des exemples d'utilisation des types de données dans des projets GraphQL pour mieux comprendre les relations entre Queries et Mutations.
-- action 2  ✔️comprendre le code commited de formateur 
-- ...
+- action 2  ✔️ Analyser le code fourni par le formateur et comprendre les bonnes pratiques d'implémentation pour gérer les interactions entre types. 
+- action 3  ✔️ Appliquer ces concepts dans un projet personnel pour solidifier la compréhension des flux de données dans GraphQL.
 
-Résolution :
+Résolution : Une fois les concepts mieux compris et testés, je serai capable d'appliquer ces solutions de manière fluide dans des projets réels et de mieux gérer les données dans un contexte GraphQL.
 
 ## 📽️ J'en fais la démonstration
 
