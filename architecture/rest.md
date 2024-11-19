@@ -33,7 +33,7 @@ Description :
 Description : Je travaille sur un projet d'authentification et d'autorisation avec des API REST. Cela inclut l'intégration de services comme Kong et Keycloak pour gérer l'accès sécurisé à nos microservices via des requêtes REST API.
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Documentation sur les méthodes HTTP et Slides 
 
 - https://developer.mozilla.org/fr/docs/Web/HTTP/Methods / slides 
 - description: La documentation explique les différentes méthodes HTTP et les bonnes pratiques pour les utiliser, y compris les verbes HTTP et les statuts associés.
