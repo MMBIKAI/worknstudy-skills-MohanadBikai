@@ -18,7 +18,7 @@
 
 ### Utilisation dans un projet ✔️
 
-[lien github]([...](https://github.com/MMBIKAI/GoodCorner))
+[lien github](https://github.com/MMBIKAI/GoodCorner)
 
 Description :Ce projet utilise une API RESTful pour la gestion d'annonces et d'authentification. L'API prend en charge des méthodes telles que GET, POST, PUT et DELETE pour gérer les produits et les utilisateurs. Elle applique des règles de validation et utilise des statuts HTTP appropriés.
 
