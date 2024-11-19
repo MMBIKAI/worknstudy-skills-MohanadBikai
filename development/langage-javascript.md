@@ -7,7 +7,7 @@
 ## 🎓 J'ai compris et je peux expliquer
 
 - les `structures` de base du langage ✔️
-- les normes `ecmascript` ❌ 
+- les normes `ecmascript` ✔️
 - l'utilisation de l'`asynchrone`  ✔️
 - les spécifités du mot-clef `this` ✔️
 
@@ -19,11 +19,11 @@
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ 
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github[](...)](https://github.com/MMBIKAI/HRenov-DM-S)
 
-Description : Je n'ai pas encore de projet spécifique en cours utilisant JavaScript, mais je compte l'utiliser pour ajouter des fonctionnalités dynamiques à mes projets web, notamment dans l'interaction avec l'API.
+Description : Ce projet est un prototype destiné à valider une méthodologie pour le soutien à la prise de décision multi-objectifs dans le domaine de la gestion de l'énergie et de l'analyse des données, en particulier pour des utilisateurs novices.
 
 ### J'ai utilisé ce langage en production ❌ 
 
@@ -31,16 +31,21 @@ Description : Je n'ai pas encore de projet spécifique en cours utilisant JavaSc
 
 Description :  Non applicable pour le moment. Je suis en phase d'apprentissage et prévois d'utiliser JavaScript dans un futur projet en production.
 
-### J'ai utilisé ce langage en environement professionnel ❌ 
+### J'ai utilisé ce langage en environement professionnel  ✔️
 
-Description : Pas encore utilisé dans un cadre professionnel, mais je l'ai étudié pour l'intégrer dans des projets à venir, notamment dans des applications web interactives.
+Description : Le même prototype mentionné précédemment a été utilisé dans un environnement professionnel pour valider des décisions liées à l'énergie et à l'analyse de données, tout en utilisant JavaScript pour le développement de certaines fonctionnalités.
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Documentation officielle ECMAScript
 
-- lien
-- description
+- ECMAScript Documentation 
+- description :La documentation officielle sur ECMAScript présente les dernières spécifications du langage JavaScript, y compris les fonctionnalités et normes les plus récentes.
+
+### Documentation Mozilla Developer Network (MDN)
+
+- MDN JavaScript Docs 
+- description : Le site MDN fournit une ressource complète pour comprendre les fonctionnalités de JavaScript, y compris des exemples, des explications sur les fonctions asynchrones, et des concepts avancés comme this et les closures.
 
 ## 🚧 Je franchis les obstacles
 
