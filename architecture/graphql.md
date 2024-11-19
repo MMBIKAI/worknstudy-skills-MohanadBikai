@@ -35,7 +35,7 @@ Description :Actuellement, je n'utilise pas GraphQL dans un projet professionnel
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Documentation officielle de GraphQL 
 
 - https://graphql.org/
 - description : La documentation officielle de GraphQL explique son fonctionnement, les concepts clés comme le schéma, les types, les requêtes, mutations, et abonnements.
