@@ -50,7 +50,7 @@ Plan d'action : (à valider par le formateur)
 - action 2 ✔️ voir les slides
 - action 3 ✔️ demander au formatuer
 
-Résolution :
+Résolution : Une fois que j'ai compris la configuration de CORS et la manière de l'appliquer à mes projets, le problème a été résolu. Cela a permis à mon application de fonctionner correctement en environnement local.
 
 ## 📽️ J'en fais la démonstration
 
