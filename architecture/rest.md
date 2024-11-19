@@ -6,54 +6,53 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- les verbes HTTP  ✔️
+- les statuts HTTP  ✔️
+- les endpoints  ✔️
+- CORS  ✔️
+- la nomenclature recommandée pour les routes  ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+[lien github]([...](https://github.com/MMBIKAI/GoodCorner))
 
-Description :
+Description :Ce projet utilise une API RESTful pour la gestion d'annonces et d'authentification. L'API prend en charge des méthodes telles que GET, POST, PUT et DELETE pour gérer les produits et les utilisateurs. Elle applique des règles de validation et utilise des statuts HTTP appropriés.
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌ 
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel  ✔️
 
-Description :
-
+Description : Je travaille sur un projet d'authentification et d'autorisation avec des API REST. Cela inclut l'intégration de services comme Kong et Keycloak pour gérer l'accès sécurisé à nos microservices via des requêtes REST API.
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- https://developer.mozilla.org/fr/docs/Web/HTTP/Methods
+- description: La documentation explique les différentes méthodes HTTP et les bonnes pratiques pour les utiliser, y compris les verbes HTTP et les statuts associés.
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ✔️
 
-Description:
+Description:Au début, j'avais des difficultés à configurer correctement CORS/axios dans un environnement de développement local avec Node.js.
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
-- ...
+- action 1 ✔️ Rechercher des tutoriels en ligne pour configurer CORS dans Node.js
+- action 2 ✔️ voir les slides
+- action 3 ✔️ demander au formatuer
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
