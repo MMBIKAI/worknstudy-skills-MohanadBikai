@@ -35,7 +35,7 @@ Description : Je travaille sur un projet d'authentification et d'autorisation av
 
 ### Titre
 
-- https://developer.mozilla.org/fr/docs/Web/HTTP/Methods
+- https://developer.mozilla.org/fr/docs/Web/HTTP/Methods / slides 
 - description: La documentation explique les différentes méthodes HTTP et les bonnes pratiques pour les utiliser, y compris les verbes HTTP et les statuts associés.
 
 ## 🚧 Je franchis les obstacles
