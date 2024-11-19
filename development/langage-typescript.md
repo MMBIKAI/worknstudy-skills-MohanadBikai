@@ -33,10 +33,10 @@ Description :J'utilise TypeScript dans le cadre de mon travail pour créer des s
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Documentation officielle de TypeScript et Slides et tutoriels internes
 
 - La documentation officielle de TypeScript fournit une explication complète des types, des interfaces, des classes, et des fonctionnalités avancées comme les decorators et l'extension d'interfaces
-- les slides 
+- Les slides et les tutoriels que j'ai suivis dans le cadre de ma formation m'ont permis de mieux comprendre les concepts de TypeScript et de les appliquer dans un environnement réel. 
 
 ## 🚧 Je franchis les obstacles
 
