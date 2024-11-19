@@ -35,7 +35,7 @@ Description :
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Documentation officielle de React Hook Form et Slides et code du formateur
 
 - https://react-hook-form.com/docs / slides / code de formateur 
 - description : Cette documentation explique comment gérer les formulaires dans React de manière efficace en utilisant React Hook Form, y compris la gestion des valeurs, la validation et les interactions avec les composants.
